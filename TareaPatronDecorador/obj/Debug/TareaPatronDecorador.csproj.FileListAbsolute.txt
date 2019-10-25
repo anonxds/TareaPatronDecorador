@@ -1,0 +1,14 @@
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\bin\Debug\TareaPatronDecorador.exe.config
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\bin\Debug\TareaPatronDecorador.exe
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\bin\Debug\TareaPatronDecorador.pdb
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\obj\Debug\TareaPatronDecorador.csprojAssemblyReference.cache
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\obj\Debug\TareaPatronDecorador.frmLogin.resources
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\obj\Debug\TareaPatronDecorador.frmServer.resources
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\obj\Debug\TareaPatronDecorador.frmVenta.resources
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\obj\Debug\TareaPatronDecorador.Properties.Resources.resources
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\obj\Debug\TareaPatronDecorador.csproj.GenerateResource.cache
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\obj\Debug\TareaPatronDecorador.csproj.CoreCompileInputs.cache
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\obj\Debug\TareaPatronDecorador.exe
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\obj\Debug\TareaPatronDecorador.pdb
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\bin\Debug\itextsharp.dll
+C:\Users\Karina\source\repos\TareaPatronDecorador\TareaPatronDecorador\obj\Debug\TareaPatronDecorador.csproj.CopyComplete
